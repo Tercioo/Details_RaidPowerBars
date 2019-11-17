@@ -29,7 +29,7 @@ local RaidPowerBarsFrame = RaidPowerBars.Frame
 
 RaidPowerBars:SetPluginDescription (Loc ["STRING_PLUGIN_DESC"])
 
-RaidPowerBars.version_string = "11"
+RaidPowerBars.version_string = "46"
 local TrackingDebuff = false
 
 local function CreatePluginFrames (data)
