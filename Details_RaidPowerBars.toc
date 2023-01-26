@@ -1,9 +1,11 @@
-## Interface: 90105
+## Interface: 100005
 ## Title: Details Raid Power Bars (plugin)
 ## Notes: Plugin for Details
 ## SavedVariablesPerCharacter: _detalhes_databaseRaidPowerBar
 ## RequiredDeps: Details
 ## OptionalDeps: Ace3
+
+## X-Wago-ID: BO679ZG3
 
 #@no-lib-strip@
 embeds.xml
